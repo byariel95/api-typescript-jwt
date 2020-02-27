@@ -2,6 +2,9 @@
   "name": "api-typescript-jwt",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "tsc-watch --onSuccess \"node dist/index.js\"" 
+  },
   "repository": "https://github.com/byariel95/api-typescript-jwt.git",
   "author": "byariel95 <ariel@dooply.net>",
   "license": "MIT",
