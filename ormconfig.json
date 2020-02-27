@@ -4,7 +4,7 @@
     "port": 3306,
     "username": "root",
     "password": "",
-    "database": "typescripdemo",
+    "database": "typescriptdemo",
     "entities": ["dist/models/**/*.js"],
     "synchronize": true
  }
